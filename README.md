@@ -1,0 +1,2 @@
+#This is the first version of the automation of sonaqube server installation
+Sonarqube is used to complete a static testing via quality gate to ensure the code meets business and compliance requirements
